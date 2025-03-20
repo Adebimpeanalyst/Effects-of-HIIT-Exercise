@@ -3,6 +3,7 @@ Project Overview:
 The aim is to better understand the effects of High Intensity Interval Training (HIIT; a form of cardiovascular exercise, aimed to improve athletic capacity, condition and fat burning). Some of the literature states that HIIT is not an effective means of exercise, while others comment that it is highly effective; however, these effects seem to be dependent on gender.   
 ## Analysis
 1.Scenario 
+
 1.Descriptive statistics for all of the participant demographics and outcome variables 
 
 46 (57.5%) of the participants are male, while the remaining 34(42.5%) are female. 
