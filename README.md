@@ -60,7 +60,7 @@ Test for homogeneity of variance for time to run 100m, p-value (0.525) > 0.05 im
 
 There was a significant effect in terms of 100m sprint time based on the age group of the participant F(3,76) = 14.03, p < 0.05 
 
-3 Scenario 
+#### Scenario 3:
 
 1.Descriptive statistics for all of the participant demographics and outcome variables 
 
@@ -97,8 +97,6 @@ Likewise, the average time they are able to continue exercising is 46.7mins with
 2.Produce appropriate graphical representation
 
  
-
-
 3.Select and run the appropriate statistical test(s) 
 
 •	State and justify the statistical test you have chosen 
