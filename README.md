@@ -1,40 +1,40 @@
 ## Effects of HIIT Exercise
-Project Overview:
-The aim is to better understand the effects of High Intensity Interval Training (HIIT; a form of cardiovascular exercise, aimed to improve athletic capacity, condition and fat burning). Some of the literature states that HIIT is not an effective means of exercise, while others comment that it is highly effective; however, these effects seem to be dependent on gender.   
-## Analysis
-1.Scenario 
+### Project Overview:
+The aim is to better understand the effects of High Intensity Interval Training (HIIT; a form of cardiovascular exercise, aimed to improve athletic capacity, condition and fat burning). Some of the literature states that HIIT is not an effective means of exercise, while others comment that it is highly effective; however, these effects seem to be dependent on gender. 
 
-1.Descriptive statistics for all of the participant demographics and outcome variables 
 
-46 (57.5%) of the participants are male, while the remaining 34(42.5%) are female. 
-The average rating of perceived exertion is 34.0946mm, with a standard deviation of 2.55mm, also the minimum rating of perceived exertion is 28.4mm, while the maximum rating is 40.39mm. 
-Likewise, the average time to run 100m is 35.2664 seconds, with a standard deviation of 4.598seconds, also the minimum time to run by the participants is 23.43 seconds, while the maximum time is 48.19 seconds.
+### Analysis
+#### Scenario 1: 
 
-2.Select and run the appropriate statistical test(s) 
+#### 1.Descriptive statistics for all of the participant demographics and outcome variables 
 
-•	State and justify the statistical test you have chosen 
+- 46 (57.5%) of the participants are male, while the remaining 34(42.5%) are female. 
+- The average rating of perceived exertion is 34.0946mm, with a standard deviation of 2.55mm, also the minimum rating of perceived exertion is 28.4mm, while the maximum rating is 40.39mm. 
+- Likewise, the average time to run 100m is 35.2664 seconds, with a standard deviation of 4.598seconds, also the minimum time to run by the participants is 23.43 seconds, while the maximum time is 48.19 seconds.
 
-Independent Samples t Test will be used because It compares the means of two independent groups to determine whether there is statistical evidence that the associated population means are significantly different.
 
-•	Test the appropriate assumptions
-Assumption of normality of the dependent variable
+#### 2.Select and run the appropriate statistical test(s) 
+
+1. State and justify the statistical test you have chosen 
+
+- Independent Samples t Test will be used because It compares the means of two independent groups to determine whether there is statistical evidence that the associated population means are significantly different.
+
+2. Test the appropriate assumptions
+- Assumption of normality of the dependent variable
 To test for normality of the Rating of perceived exertion, using Shapiro-Wilk, p-value (0.377) > 0.05 implies that the rating of perceived exertion is normally distributed.
-
-Also, to test for normality of time to run 100m, using Shapiro-Wilk, p-value (0.305) > 0.05 implies that time to run 100m is normally distributed.
-Assumption of homogeneity of variance
-
+- Also, to test for normality of time to run 100m, using Shapiro-Wilk, p-value (0.305) > 0.05 implies that time to run 100m is normally distributed.
+- Assumption of homogeneity of variance
 Test for homogeneity of variance for the rating of perceived exertion, p-value (0.485) > 0.05 implies that the assumption of homogeneity of variance is not violated.
+- Test for homogeneity of variance for time to run 100m, p-value (0.525) > 0.05 implies that the assumption of homogeneity of variance is not violated.
 
-Test for homogeneity of variance for time to run 100m, p-value (0.525) > 0.05 implies that the assumption of homogeneity of variance is not violated.
+Run the test
 
-•	Run the test
-
- The 46 male participants (M = 34.79, SD = 2.4) rating of perceived exertion are significantly better compared to the 34 female participants (M = 33.15, SD = 2.48), t(78) = 2.976, p = .004.
+- The 46 male participants (M = 34.79, SD = 2.4) rating of perceived exertion are significantly better compared to the 34 female participants (M = 33.15, SD = 2.48), t(78) = 2.976, p = .004.
  
-There was no significant effect for gender on time to run 100m, t(78) = 0.431, p = .667, despite female participants (M = 35.01, SD = 5.1) slightly attaining higher time to run than male participants (M = 35.46, SD = 4.24).
+- There was no significant effect for gender on time to run 100m, t(78) = 0.431, p = .667, despite female participants (M = 35.01, SD = 5.1) slightly attaining higher time to run than male participants (M = 35.46, SD = 4.24).
 
 
-2.Scenario 
+#### Scenario 2:  
 
 1.Descriptive statistics for all of the participant demographics and outcome variables 
 
@@ -44,19 +44,19 @@ The average time to run 100m is 35.2664 seconds, with a standard deviation of 4.
 
 2.Select and run the appropriate statistical test(s) 
 
-•	State and justify the statistical test you have chosen 
+- State and justify the statistical test you have chosen 
 
 One-way Anova, it is used when you have data about one categorical independent variable and one quantitative dependent variable. The independent variable should have at least three levels.
 
-•	Test the appropriate assumptions
+- Test the appropriate assumptions
 
 To test for normality of time to run 100m, using Shapiro-Wilk, p-value (0.305) > 0.05 implies that time to run 100m is normally distributed.
 
-Assumption of homogeneity of variance
+- Assumption of homogeneity of variance
 
 Test for homogeneity of variance for time to run 100m, p-value (0.525) > 0.05 implies that assumption of homogeneity of variance is not violated.
 
-•	Run the test 
+- Run the test 
 
 There was a significant effect in terms of 100m sprint time based on the age group of the participant F(3,76) = 14.03, p < 0.05 
 
