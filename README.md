@@ -4,25 +4,28 @@ The aim is to better understand the effects of High Intensity Interval Training 
 ## Analysis
 1.Scenario 
 1.Descriptive statistics for all of the participant demographics and outcome variables 
-46 (57.5%) of the participants are male, while the remaining 34(42.5%) are female. The average rating of perceived exertion is 34.0946mm, with a standard deviation of 2.55mm, also the minimum rating of perceived exertion is 28.4mm, while the maximum rating is 40.39mm. Likewise, the average time to run 100m is 35.2664 seconds, with a standard deviation of 4.598seconds, also the minimum time to run by the participants is 23.43 seconds, while the maximum time is 48.19 seconds.
+
+46 (57.5%) of the participants are male, while the remaining 34(42.5%) are female. 
+The average rating of perceived exertion is 34.0946mm, with a standard deviation of 2.55mm, also the minimum rating of perceived exertion is 28.4mm, while the maximum rating is 40.39mm. 
+Likewise, the average time to run 100m is 35.2664 seconds, with a standard deviation of 4.598seconds, also the minimum time to run by the participants is 23.43 seconds, while the maximum time is 48.19 seconds.
+
 2.Select and run the appropriate statistical test(s) 
 •	State and justify the statistical test you have chosen 
+
 Independent Samples t Test will be used because It compares the means of two independent groups to determine whether there is statistical evidence that the associated population means are significantly different.
+
 •	Test the appropriate assumptions
 Assumption of normality of the dependent variable
 To test for normality of the Rating of perceived exertion, using Shapiro-Wilk, p-value (0.377) > 0.05 implies that the rating of perceived exertion is normally distributed.
 Also, to test for normality of time to run 100m, using Shapiro-Wilk, p-value (0.305) > 0.05 implies that time to run 100m is normally distributed.
 Assumption of homogeneity of variance
+
 Test for homogeneity of variance for the rating of perceived exertion, p-value (0.485) > 0.05 implies that the assumption of homogeneity of variance is not violated.
 Test for homogeneity of variance for time to run 100m, p-value (0.525) > 0.05 implies that the assumption of homogeneity of variance is not violated.
+
 •	Run the test
  The 46 male participants (M = 34.79, SD = 2.4) rating of perceived exertion are significantly better compared to the 34 female participants (M = 33.15, SD = 2.48), t(78) = 2.976, p = .004.
 There was no significant effect for gender on time to run 100m, t(78) = 0.431, p = .667, despite female participants (M = 35.01, SD = 5.1) slightly attaining higher time to run than male participants (M = 35.46, SD = 4.24).
-
-
-
-
-
 
 
 2.Scenario 
