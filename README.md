@@ -11,6 +11,7 @@ The average rating of perceived exertion is 34.0946mm, with a standard deviation
 Likewise, the average time to run 100m is 35.2664 seconds, with a standard deviation of 4.598seconds, also the minimum time to run by the participants is 23.43 seconds, while the maximum time is 48.19 seconds.
 
 2.Select and run the appropriate statistical test(s) 
+
 •	State and justify the statistical test you have chosen 
 
 Independent Samples t Test will be used because It compares the means of two independent groups to determine whether there is statistical evidence that the associated population means are significantly different.
