@@ -56,7 +56,7 @@ To test for normality of time to run 100m, using Shapiro-Wilk, p-value (0.305) >
 
 Test for homogeneity of variance for time to run 100m, p-value (0.525) > 0.05 implies that assumption of homogeneity of variance is not violated.
 
-- Run the test 
+Run the test 
 
 There was a significant effect in terms of 100m sprint time based on the age group of the participant F(3,76) = 14.03, p < 0.05 
 
@@ -81,7 +81,7 @@ The two variables are nominal variable
 
 The two variables consist of two variables
 
-- Run the test
+Run the test
   
 There was a significant relationship between the likelihood to continue training and gender, X2 (1) = 4.126, p-value = 0.042
 
