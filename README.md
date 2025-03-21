@@ -69,11 +69,11 @@ There was a significant effect in terms of 100m sprint time based on the age gro
 
 2.Choose and run the appropriate statistical test(s) 
 
-•	State and justify the statistical test you have chosen 
+- State and justify the statistical test you have chosen 
 
 Pearson Chi Square: It measures the strength of relationship between two categorical variables
 
-•	Test the appropriate assumptions 
+- Test the appropriate assumptions 
 
 The assumptions are satisfied:
 
@@ -81,12 +81,13 @@ The two variables are nominal variable
 
 The two variables consist of two variables
 
-•	Run the test
+- Run the test
+  
 There was a significant relationship between the likelihood to continue training and gender, X2 (1) = 4.126, p-value = 0.042
 
-4.Scenario 
+#### Scenario 4
 
-1.Descriptive statistics for all of the participant demographics and outcome variables 
+- Descriptive statistics for all of the participant demographics and outcome variables 
 
 The average caffeine intake is 6.883mg/kg, with a standard deviation of 1.05mg/kg, also the minimum rating of caffeine intake is 3.90mg/kg, 
 
@@ -99,7 +100,7 @@ Likewise, the average time they are able to continue exercising is 46.7mins with
  
 3.Select and run the appropriate statistical test(s) 
 
-•	State and justify the statistical test you have chosen 
+- State and justify the statistical test you have chosen 
 
 Linear regression analysis is used to predict the value of a continuous dependent variable based on the value of another variable (independent).
 Assumptions
@@ -108,9 +109,9 @@ The two variables are measured at the continuous level
 
 Assumption of normality of the dependent variable:
 
-To test for normality of individual caffeine doses, using Shapiro-Wilk, p-value < 0.05 implies that it’s not normally distributed.
+- To test for normality of individual caffeine doses, using Shapiro-Wilk, p-value < 0.05 implies that it’s not normally distributed.
 
-Also, to test for normality of how long they are able to continue exercising, using Shapiro-Wilk, p-value (0.632) > 0.05 implies that it’s normally distributed.
+- Also, to test for normality of how long they are able to continue exercising, using Shapiro-Wilk, p-value (0.632) > 0.05 implies that it’s normally distributed.
 
 
 Test of Linearity
@@ -121,11 +122,11 @@ Test of Linearity
 There is a linear relationship between the two variables between there is a presence of outliers.
 
 
-•	Run the test
+Run the test
 
-The R2 value (.832) indicates that 83.2% variation in the dependent variable (how long they are able to continue exercising) can be explained by the independent variable (the individual caffeine doses). Hence caffeine dose is appropriate in the prediction of exercise duration. 
+- The R2 value (.832) indicates that 83.2% variation in the dependent variable (how long they are able to continue exercising) can be explained by the independent variable (the individual caffeine doses). Hence caffeine dose is appropriate in the prediction of exercise duration. 
 
-Durbin-Watson of 2.055 indicates that there is no autocorrelation detected in the sample.
+- Durbin-Watson of 2.055 indicates that there is no autocorrelation detected in the sample.
 
 The regression model predicts the dependent variable (how long they are able to continue exercising) significantly well, F(1,78) = 385.4, p-value < 0.05
 The regression equation:
