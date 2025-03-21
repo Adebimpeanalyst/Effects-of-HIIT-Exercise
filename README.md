@@ -118,7 +118,8 @@ Assumption of normality of the dependent variable:
 
 Test of Linearity
 
- 
+ ![image](https://github.com/user-attachments/assets/cac968c9-8a15-4430-a8bb-cd31607b4542)
+
 
 
 There is a linear relationship between the two variables between there is a presence of outliers.
