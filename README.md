@@ -86,6 +86,8 @@ Run the test
 There was a significant relationship between the likelihood to continue training and gender, X2 (1) = 4.126, p-value = 0.042
 
 #### Scenario 4
+![image](https://github.com/user-attachments/assets/f9c4bb95-b10e-4110-9ed4-ac65555e1783)
+
 
 - Descriptive statistics for all of the participant demographics and outcome variables 
 
